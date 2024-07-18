@@ -177,7 +177,7 @@ ol {
 }
 
 .search-form__pseudo-checkbox::after {
-  position: absolute;
+  position: relative;
   content: "";
   display: block;
   top: 50%;
