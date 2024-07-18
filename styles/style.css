@@ -257,6 +257,7 @@ ol {
   position: relative;
   max-height: 298px;
   overflow-y: auto;
+  overflow-x: hidden;
 }
 
 /* TEMPLATE 1 */
