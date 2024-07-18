@@ -94,8 +94,8 @@ ol {
   align-items: flex-end;
   gap: 30px;
   max-width: 1140px;
-  margin: 133px 30px;
   min-height: 534px;
+  margin: 133px 30px;
   overflow: hidden;
 }
 
@@ -157,8 +157,8 @@ ol {
 
 .search-form__checkbox-list {
   display: flex;
-  align-items: center;
   justify-content: center;
+  align-items: center;
   gap: 15px;
 }
 
@@ -322,4 +322,3 @@ ol {
   object-fit: cover;
   object-position: center;
 }
-
